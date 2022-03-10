@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HDPlayser
+- 👀 I’m interested in experementing and programming microcontrollers and working with .NET related stuff.
+- 🤯 I like to manage projects from the beginning up to the deployment.
+- 📫 I´m currently an Full Stack develpoper at Germany
